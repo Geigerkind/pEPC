@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: Priest EP Calculator |cFFFF8080-Shino-|r
+## Notes: Gives a rough EP estimation for priests.
+## Author: Shino - legacyplayers.com
+## SavedVariables: pEPC
+
+pEPC.lua
+
